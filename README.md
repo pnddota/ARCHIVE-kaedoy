@@ -1,2 +1,2 @@
 # kaedoy
-just repo is for Privacy Policy and Terms & Conditions
+just repo is for kaedoy's Privacy Policy and Terms & Conditions
