@@ -1,5 +1,5 @@
 # kaedoy
-you can find kaedoy's Privacy Policy and Terms & Conditions here
+you can find kaedoy's Privacy Policy and Terms & Conditions in this repo
 
 
 download now
