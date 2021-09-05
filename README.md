@@ -6,4 +6,4 @@ ios: https://apps.apple.com/app/kaedoy/id1583932912
 
 android: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
-webapp: https://kaedoy.web.app/#/
+webapp: https://kaedoy.web.app
