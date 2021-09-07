@@ -19,11 +19,12 @@ BEWARE the calculation of very small number(many of decimal), might also the bug
 
 
 
-web: https://kaedoy.web.app
+[web](https://kaedoy.web.app)
 
 
-ios: https://apps.apple.com/app/kaedoy/id1583932912
+
+[ios](https://apps.apple.com/app/kaedoy/id1583932912)
 
 
-android: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
+[android](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
