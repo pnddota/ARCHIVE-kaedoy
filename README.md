@@ -12,7 +12,7 @@ i generate those two files just for the stores.
 i do not collect anything from you.
 
 
-BEWARE the calculation of very small number(many of decimal), also might be the bug of the program.
+BEWARE the calculation of very small number(many of decimal), might also the bug of the program.
 ***********************************************************************************************************************************************
 
 
