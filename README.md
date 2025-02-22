@@ -24,15 +24,13 @@
 
 
 
-This project is aimed at solving X problem...
-
 <!-- https://kaedoy.web.app -->
-~~[web]()~~
+~~[web]~~
 
 
 <!-- https://apps.apple.com/app/kaedoy/id1583932912 -->
-~~[ios]()~~
+~~[ios]~~
 
 
 <!-- https://play.google.com/store/apps/details?id=com.pnddota.kaedoy -->
-~~[android]()~~
+~~[android]~~
