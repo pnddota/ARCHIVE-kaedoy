@@ -3,7 +3,7 @@
 > **Note**: This repository is now discontinued and will no longer be actively maintained.
 
 
-# kaedoy
+~~# kaedoy~~
 ~~you can find kaedoy's Privacy Policy and Terms & Conditions in this repo~~
 
 
@@ -24,12 +24,15 @@
 
 
 
-~~[web](https://kaedoy.web.app)~~
+This project is aimed at solving X problem...
+
+<!-- https://kaedoy.web.app -->
+~~[web]()~~
 
 
+<!-- https://apps.apple.com/app/kaedoy/id1583932912 -->
+~~[ios]()~~
 
-~~[ios](https://apps.apple.com/app/kaedoy/id1583932912)~~
 
-
-
-~~[android](https://play.google.com/store/apps/details?id=com.pnddota.kaedoy)~~
+<!-- https://play.google.com/store/apps/details?id=com.pnddota.kaedoy -->
+~~[android]()~~
